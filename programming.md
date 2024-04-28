@@ -24,5 +24,5 @@ computing. In particular the course will cover:
 The course will be based on the excellent [Software Carpentry](http://software-carpentry.org/) 
 curriculum and will incorporate pair-programming and live coding. The course will take a
 student-centered, active learning, approach to teaching this material. Class
-will typically consist of a short introductions to programming techniquess, followed by 
+will typically consist of a short introduction to programming techniques, followed by 
 hands on computing exercises.
